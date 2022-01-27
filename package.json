@@ -9,9 +9,17 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "Benny",
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.4.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennyou-matchbox/node-playground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bennyou-matchbox/node-playground/issues"
+  },
+  "homepage": "https://github.com/bennyou-matchbox/node-playground#readme"
 }
